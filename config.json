@@ -1,0 +1,5 @@
+{
+    "max_delay_sec": 10,
+    "url": "https://www.discord.com/",
+    "expected_status": 200
+}
